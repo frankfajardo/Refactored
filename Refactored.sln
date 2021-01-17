@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactored.Api", "Refactored.Api\Refactored.Api.csproj", "{8AB65C6F-246B-4A83-81E8-75245AB32E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB65C6F-246B-4A83-81E8-75245AB32E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB65C6F-246B-4A83-81E8-75245AB32E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB65C6F-246B-4A83-81E8-75245AB32E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB65C6F-246B-4A83-81E8-75245AB32E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B797D3F-65F2-45C5-9393-60C316BCA43C}
+	EndGlobalSection
+EndGlobal
